@@ -12,7 +12,7 @@ test.then(function(res){
 const App = ()=>{
   return (
     <div>
-    {list}
+    
    </div>
  );
 }
